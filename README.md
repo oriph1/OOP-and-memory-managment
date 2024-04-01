@@ -1,4 +1,4 @@
-# OOP-and-memory-managment-in-C++-
+# OOP-and-memory-managment-in-C++
 This project aims to provide hands-on experience in designing an object-oriented system using C++.
 It focuses on utilizing classes, standard data structures, and C++ features like the "Rule of 5" to manage memory effectively and avoid memory leaks.
 
